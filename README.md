@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 
 
 <div>
-<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/TSU.jpg" width="300" height="100">
-Факультет прикладной математики и кибернетики. Математик.
+<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/TSU.jpg" width=20%>
+</div>
+Факультет прикладной математики и кибернетики. </br>Математик.
+<div>
+<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/ФДО.jpg" width=15%>
 </div>
 
 -->
