@@ -16,13 +16,20 @@ Here are some ideas to get you started:
 
 
 <div>
-<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/TSU.jpg" width=20%>
+<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/TSU.jpg" width=20%></br>
+Томский государственный исследовательский университет</br>
+Факультет прикладной математики и кибернетики.</br>Математик.</br>
 </div>
-Томский государственный исследовательский университет
-Факультет прикладной математики и кибернетики.</br>Математик.
+
 <div>
-<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/FDO.jpg" width=15%>
+<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/FDO.jpg" width=12%></br>
+Томский государственный университет систем управления и радиоэлектроники</br>
+Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.</br>
 </div>
-Томский государственный университет систем управления и радиоэлектроники
-Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.
+
+<div>
+<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/qa-guru.png"width=20%>
+</div>
+Школа инженеров по автоматизации тестировния</br>
 -->
+
