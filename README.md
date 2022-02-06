@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![This is an image](/TSU.jpg)
+<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/TSU.jpg" width="300" height="100">
 -->
 
-<img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/TSU.gpg" width="400" height="790">
+
 
