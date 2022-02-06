@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
+<div>
 <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/TSU.jpg" width="300" height="100">
 Факультет прикладной математики и кибернетики. Математик.
+</div>
 
 -->
