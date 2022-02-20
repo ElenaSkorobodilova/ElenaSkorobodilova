@@ -52,15 +52,12 @@ Here are some ideas to get you started:
 > ### REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
-:ballot_box_with_check: В качестве объекта тестирования выбран сайт .</br>Портал направлен на информирование соискателей и работников о карьерных возможностях в Госкорпорации: имеющихся вакансиях, учебных проектах, преференциях молодым специалистам. Также на нём размещены статьи о достижениях Госкорпорации и планах развития.</br></br>
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы портала, а также функции поиска заданной вакансии.</br></br>
+:ballot_box_with_check: В качестве объекта тестирования выбран сайт  https://openlibrary.org/ с открытым API.</br>Сайт позволяет получать информацию о книгах по автору, названию, теме, году издания, издателю, языках публикаций и прочем.</br></br>
+:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска.</br></br>
 :triangular_flag_on_post: Что особенного:
-- [x] Page Object
-- [x] Параметризованная сборка в Jenkins
-- [x] owner.config
-- [x] Полная интеграция с Allure Testops и Jira
-- [x] Тестпланы как по авто-, так и по ручному тестированию
-- [x] Задачи на дефекты
+- [x] Описание модели получаемых данных с помощью библиотеки Lombok
+- [x] Лямбда-подход для описания Allure Step
+- [x] Шаблоны форматирования логов запросов
 
 :ballot_box_with_check: рсмрвсмр
 :heavy_exclamation_mark: тртптр
