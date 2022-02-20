@@ -1,8 +1,5 @@
 ### Добро пожаловать и привет! :cherry_blossom:
 Меня зовут Елена. С сентября 2018 года я - инженер по тестированию программного обеспечения.</br>
-
-:small_blue_diamond:  _Коротко обо мне_
-
 <!--
 **ElenaSkorobodilova/ElenaSkorobodilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,20 +17,14 @@ Here are some ideas to get you started:
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="top"><img src="/images/TSU80.jpg"></td><td valign="middle">Томский государственный исследовательский университет</br>Факультет прикладной математики и кибернетики</br>Математик</td></tr>
-    <tr><td width="30%" valign="top"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники</br>Факультет дополнитеьного образования</br>Тестирование и контроль качества программного обеспечения</td>
-    <tr><td width="30%" valign="top"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования</td></tr>
+    <td width="30%" valign="top"><img src="/images/TSU80.jpg"></td><td valign="middle">Томский государственный исследовательский университет.</br>Факультет прикладной математики и кибернетики.</br>Математик.</td></tr>
+    <tr><td width="30%" valign="top"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники.</br>Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.</td>
+    <tr><td width="30%" valign="top"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
-  
-:small_blue_diamond:  _Зачем эта страничка_  
-В настоящее время я учусь в школе автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</br>
-Здесь представлен мой дипломный проект, состоящий из проектов, реализованных в рамках курса.
-</br></br>
 
-----
-### Дипломный проект
+## Дипломный проект
 > ### Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
