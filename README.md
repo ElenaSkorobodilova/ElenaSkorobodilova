@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - [x] Тестпланы авто- и ручного тестирования
 - [x] Задачи на дефекты
 
-</br>
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
@@ -53,7 +52,6 @@ Here are some ideas to get you started:
 - [x] Лямбда-подход для описания Allure Step
 - [x] Шаблоны форматирования логов запросов
 
-</br>
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">financisto-mobile-tests</a></br></br>
