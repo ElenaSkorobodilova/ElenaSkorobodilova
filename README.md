@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ----
 ### Дипломный проект
-> ### UI
+> ### Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :ballot_box_with_check: В качестве объекта тестирования выбран Единый карьерный портал Госкорпорации "Росатом".</br>Портал направлен на информирование соискателей и работников о карьерных возможностях в Госкорпорации: имеющихся вакансиях, учебных проектах, преференциях молодым специалистам. Также на нём размещены статьи о достижениях Госкорпорации и планах развития.</br></br>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 </br>
 
-> ### REST API
+> ### Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
 :ballot_box_with_check: В качестве объекта тестирования выбран сайт  https://openlibrary.org/ с открытым API.</br>Сайт позволяет получать информацию о книгах по автору, названию, теме, году издания, издателю, языках публикаций и прочем.</br></br>
