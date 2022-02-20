@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="middle"><img src="/images/TSU80.jpg"></td><td valign="middle">Томский государственный исследовательский университет.</br>Факультет прикладной математики и кибернетики.</br>Математик.</td></tr>
-    <tr><td width="30%" valign="middle"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники.</br>Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.</td>
-    <tr><td width="30%" valign="middle"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <td width="30%" valign="bottom"><img src="/images/TSU80.jpg"></td><td valign="middle">Томский государственный исследовательский университет.</br>Факультет прикладной математики и кибернетики.</br>Математик.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники.</br>Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.</td>
+    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
