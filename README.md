@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 В качестве объекта тестирование выбрано мобильное приложение приложение для учета личных финансов с открытым исходным кодом **financisto**.<br/></br>
 Приложение позволяет пользователю создавать и вести учёт по счетам в разных валютах. Планировать бюджет, проводить транзакции, оперировать остатками, получать отчёты по периодам, проектам, категориям  и т.д.<br/></br>
-:heavy_check_mark: Реализованы автотесты мобильного приложения на эмуляторе устрояства.</br></br>
+:heavy_check_mark: Реализованы автотесты мобильного приложения на эмуляторе устройства.</br></br>
 :triangular_flag_on_post: Что особенного:
 - [x] Первоначальная формулировка шагов тесткейсов в Allure Testops и импорт их в IntelliJ Idea
 - [x] Степовой подход для описания Allure Step
