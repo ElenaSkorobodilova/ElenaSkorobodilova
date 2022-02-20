@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   </br>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
-  :blue_heart: <a target="_blank" href="https://t.me/ElenaSeversk">t.me/ElenaSeversk</a>
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
@@ -66,5 +65,6 @@ Here are some ideas to get you started:
 - [x] Степовой подход для описания Allure Step
 - [x] Различные файлы конфигураций для запуска тестов
 
-
+</br></br>
+:blue_heart: <a target="_blank" href="https://t.me/ElenaSeversk">t.me/ElenaSeversk</a>
 
