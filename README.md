@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="top"><img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/TSU80.jpg"></td><td valign="middle">Томский государственный исследовательский университет</br>Факультет прикладной математики и кибернетики</br>Математик</td></tr>
-    <tr><td width="30%" valign="top"><img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники</br>Факультет дополнитеьного образования</br>Тестирование и контроль качества программного обеспечения</td>
-    <tr><td width="30%" valign="top"><img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования</td></tr>
+    <td width="30%" valign="top"><img src="/images/TSU80.jpg"></td><td valign="middle">Томский государственный исследовательский университет</br>Факультет прикладной математики и кибернетики</br>Математик</td></tr>
+    <tr><td width="30%" valign="top"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники</br>Факультет дополнитеьного образования</br>Тестирование и контроль качества программного обеспечения</td>
+    <tr><td width="30%" valign="top"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования</td></tr>
    </tr>
   </table>
   </br>
@@ -34,10 +34,34 @@ Here are some ideas to get you started:
 
 ----
 ### Дипломный проект
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br>
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)
-:heavy_check_mark: О чём проект:
-Реализованы автотесты UI на selenide 
+> ### UI
+:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
+:ballot_box_with_check: В качестве объекта тестирования выбран Единый карьерный портал Госкорпорации "Росатом".</br>Портал направлен на информирование соискателей и работников о карьерных возможностях в Госкорпорации: имеющихся вакансиях, учебных проектах, преференциях молодым специалистам. Также на нём размещены статьи о достижениях Госкорпорации и планах развития.</br></br>
+:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы портала, а также функции поиска заданной вакансии.</br></br>
+:triangular_flag_on_post: Что особенного:
+- [x] Page Object
+- [x] Параметризованная сборка
+- [x] owner.config
+- [x] Интеграция с Jira
+- [x] Тестпланы как по авто-, так и по ручному тестированию
+- [x] Задачи на дефекты
+
+</br>
+
+> ### REST API
+:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
+:ballot_box_with_check: В качестве объекта тестирования выбран сайт .</br>Портал направлен на информирование соискателей и работников о карьерных возможностях в Госкорпорации: имеющихся вакансиях, учебных проектах, преференциях молодым специалистам. Также на нём размещены статьи о достижениях Госкорпорации и планах развития.</br></br>
+:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы портала, а также функции поиска заданной вакансии.</br></br>
+:triangular_flag_on_post: Что особенного:
+- [x] Page Object
+- [x] Параметризованная сборка в Jenkins
+- [x] owner.config
+- [x] Полная интеграция с Allure Testops и Jira
+- [x] Тестпланы как по авто-, так и по ручному тестированию
+- [x] Задачи на дефекты
+
 :ballot_box_with_check: рсмрвсмр
 :heavy_exclamation_mark: тртптр
 :triangular_flag_on_post: лллтлд
